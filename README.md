@@ -1,4 +1,4 @@
-# Nier Replicant Weapons Checklist
+# NieR Replicant Weapons Checklist
 A website which provides visitors with a completion checklist for NieR Replicant's Weapons.
 
 ## What is this?
