@@ -1,0 +1,39 @@
+{
+	"one_handed_swords": {
+		"Nameless Blade": {
+			"id": 1,
+			"name": "<a href=\"https://nier.fandom.com/wiki/Nameless_Blade\">Nameless Blade</a>",
+			"percent": 2
+		},
+		"mantis_claw": {
+			"id": 2,
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Mantis_Claw\">Lily-Leaf Sword</a>",
+			"percent": 2
+		},
+		"crystal_heart": {
+			"id": 19,
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Crystal_Heart\">Crystal Heart</a>",
+			"percent": 2
+		},
+		"isma_s_tear": {
+			"id": 20,
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Isma's_Tear\">Isma's Tear</a>",
+			"percent": 2
+		},
+		"king_s_brand": {
+			"id": 21,
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/King's_Brand\">King's Brand</a>",
+			"percent": 2
+		},
+		"monarch_wings": {
+			"id": 22,
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Monarch_Wings\">Monarch Wings</a>",
+			"percent": 2
+		},
+		"shade_cloak": {
+			"id": 23,
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Shade_Cloak\">Shade Cloak</a>",
+			"percent": 2
+		}
+	}
+}
